@@ -1,13 +1,3 @@
-
-import java.io.UnsupportedEncodingException;
-import java.net.URLDecoder;
-import java.util.HashMap;
-import java.util.Map;
-hello
-Search Results
-Featured snippet from the web
-Git creates a master branch once you've done your first commit. There's nothing to have a branch for if there's no code in the repository. First off, when you create a "bare repository", you're not going to be doing any work with it (it doesn't contain a working copy, so the git branch command is not useful).Feb 6, 2012
-
 Search Results
 Featured snippet from the web
 Git creates a master branch once you've done your first commit. There's nothing to have a branch for if there's no code in the repository. First off, when you create a "bare repository", you're not going to be doing any work with it (it doesn't contain a working copy, so the git branch command is not useful).Feb 6, 2012
